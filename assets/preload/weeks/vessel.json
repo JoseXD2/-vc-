@@ -1,0 +1,25 @@
+{
+	"storyName": "W e l c o m e   b a c k",
+	"hideFreeplay": false,
+	"weekBackground": "vessel",
+	"weekBefore": "",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"vessel",
+			"FAKER X ICONS",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "lord_chacs"
+}
