@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="death.png">
+	<SubTexture name="death0000" x="0" y="0" width="1920" height="2080"/>
+	<SubTexture name="idle0000" x="0" y="0" width="0" height="0"/>
+</TextureAtlas>
