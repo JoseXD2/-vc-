@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="fonts.png">
+
+	<SubTexture name="A0000" x="10" y="10" width="100" height="100"/>
+	<SubTexture name="B0000" x="130" y="10" width="100" height="100"/>
+	<SubTexture name="C0000" x="10" y="130" width="100" height="100"/>
+	<SubTexture name="D0000" x="130" y="130" width="100" height="100"/>
+	<SubTexture name="E0000" x="250" y="10" width="100" height="100"/>
+	<SubTexture name="F0000" x="250" y="130" width="100" height="100"/>
+	<SubTexture name="G0000" x="10" y="250" width="100" height="100"/>
+	<SubTexture name="H0000" x="130" y="250" width="100" height="100"/>
+	<SubTexture name="I0000" x="250" y="250" width="100" height="100"/>
+	<SubTexture name="J0000" x="370" y="10" width="100" height="100"/>
+	<SubTexture name="K0000" x="370" y="130" width="100" height="100"/>
+	<SubTexture name="L0000" x="370" y="250" width="100" height="100"/>
+	<SubTexture name="M0000" x="10" y="370" width="100" height="100"/>
+	<SubTexture name="N0000" x="130" y="370" width="100" height="100"/>
+	<SubTexture name="O0000" x="250" y="370" width="100" height="100"/>
+	<SubTexture name="P0000" x="370" y="370" width="100" height="100"/>
+	<SubTexture name="Q0000" x="490" y="10" width="100" height="100"/>
+	<SubTexture name="R0000" x="490" y="130" width="100" height="100"/>
+	<SubTexture name="S0000" x="490" y="250" width="100" height="100"/>
+	<SubTexture name="T0000" x="490" y="370" width="100" height="100"/>
+	<SubTexture name="U0000" x="10" y="490" width="100" height="100"/>
+	<SubTexture name="V0000" x="130" y="490" width="100" height="100"/>
+	<SubTexture name="W0000" x="250" y="490" width="100" height="100"/>
+	<SubTexture name="X0000" x="370" y="490" width="100" height="100"/>
+	<SubTexture name="Y0000" x="490" y="490" width="100" height="100"/>
+	<SubTexture name="Z0000" x="610" y="10" width="100" height="100"/>
+
+</TextureAtlas>
